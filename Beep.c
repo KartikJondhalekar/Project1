@@ -6,5 +6,6 @@ int main() {
 	printf("Change to branch");
 
 	int a =10;
+	int b =20;
 	return 0;
 }
