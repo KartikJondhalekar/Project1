@@ -7,5 +7,8 @@ int main() {
 
 	int a =10;
 	int b =10;
+
+	float x;
+
 	return 0;
 }
