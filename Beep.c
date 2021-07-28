@@ -5,6 +5,6 @@ int main() {
 	printf("Change to repo");
 
 	printf("Day2-Conflicts");
-
+	printf("sync push")
 	return 0;
 }
