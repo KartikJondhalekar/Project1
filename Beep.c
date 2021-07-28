@@ -9,7 +9,7 @@ int main() {
 
 	printf("Change to branch");
 	
-	int a=20; 
+	int a=10; 
 
 	return 0;
 }
