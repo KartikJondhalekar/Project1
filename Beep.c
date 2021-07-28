@@ -7,5 +7,6 @@ int main() {
 	printf("Day2-Conflicts");
 	printf("Sync pull");
 
+	printf("Change to branch");
 	return 0;
 }
