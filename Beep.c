@@ -8,5 +8,8 @@ int main() {
 	printf("Sync pull");
 
 	printf("Change to branch");
+	
+	int a=20; 
+
 	return 0;
 }
